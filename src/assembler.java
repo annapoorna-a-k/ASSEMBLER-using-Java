@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ANNAPOORNA_21114_assembler 
+public class assembler 
 {
 	public static File no_whitespace() throws IOException 
 	{
